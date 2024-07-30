@@ -7,7 +7,6 @@
 <h2 align="center"> 
 	🚧  Cebraspe Tracker ♻️ Em progresso 🚀 🚧
 </h2>
-
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
